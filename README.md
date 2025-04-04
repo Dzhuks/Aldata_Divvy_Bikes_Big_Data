@@ -96,7 +96,7 @@
 - member_casual (casual купил Pass на 24 часа, member купил годовое членство [Эта информация была взята из readme старых датасетов {за 2013 год} '"Customer" is a rider who purchased a 24-Hour Pass; "Subscriber" is a rider who purchased an Annual Membership'])
 
 ### Stations
-Описание станций с 2013 по 2017 года. В 2015 году отсутствует информация о дате поткрытия станции 
+Описание станций с 2013 по 2017 года. В 2015 году отсутствует информация о дате открытия станции 
 
 Скачать: https://disk.yandex.ru/d/aB2M0ILGae6fAg
 
