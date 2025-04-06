@@ -1,11 +1,12 @@
-# Aldata_Divvy_Bikes_Big_Data
+# Доска. Важное
+https://miro.com/welcomeonboard/SzVlN0hlSFVLczVIenl1WWlrRFhjOHpXNlNXcW1iVkYwenM4SW1sQ29SY2RMNTAvdmxwcDVyUGM4YVY0VXFXVisyYUxhMDVYNHczVVRrQjZKWldjZDQ2TzFHRG5ka1JLbVc4M3FIVENhZS9JdTFVUitLaHlHQ1U0bkFGSkFsbXp0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=577326765906
 
-## Описание данных
+# Описание данных
 
-### tripdata
+## tripdata
 Скачать: https://disk.yandex.ru/d/BxYXxeP3JOZ6ew
 
-#### 20_tripdata.parquet
+### 20_tripdata.parquet
 Данные о поездках с января 2020 по сентябрь 2021
 - Divvy_Trips_2020_Q1.csv
 - 202004-divvy-tripdata.csv
@@ -29,7 +30,7 @@
 
 8529228 строк
 
-#### 40_tripdata.parquet
+### 40_tripdata.parquet
 Данные о поездках с октября 2021 по май 2023
 - 202110-divvy-tripdata.csv
 - 202111-divvy-tripdata.csv
@@ -54,7 +55,7 @@
 
 8665694 строк
 
-#### 60_tripdata.parquet
+### 60_tripdata.parquet
 Данные о поездках с июня 2023 по февраль 2025
 - 202306-divvy-tripdata.csv
 - 202307-divvy-tripdata.csv
@@ -80,7 +81,7 @@
 
 9480555 строк
 
-#### Поля
+### Поля
 - ride_id (ID поездки)
 - rideable_type (тип транспортного средства)
 - started_at (время начала поездки)
@@ -95,18 +96,20 @@
 - end_lng (долгота прибытия)
 - member_casual (casual купил Pass на 24 часа, member купил годовое членство [Эта информация была взята из readme старых датасетов {за 2013 год} '"Customer" is a rider who purchased a 24-Hour Pass; "Subscriber" is a rider who purchased an Annual Membership'])
 
-### Stations
-Описание станций с 2013 по 2017 года. В 2015 году отсутствует информация о дате открытия станции 
+## Stations
+Описание станций с 2013 по 2017 года. Во все года, кроме 2015 установлена дата, на период которой описывалось состояние станции. В 2015 году это поле отсутствовало, везде в соответствующий столбец было поставлено значение года 2015
 
 Скачать: https://disk.yandex.ru/d/aB2M0ILGae6fAg
 
-#### Поля
+### Поля
 - id (ID станции)
 - name (наименование станции)
 - latitude (широта станции)
 - longitude (долгота станции)
 - dpcapacity (вместимость станции)
 - landmark (нет в описании)
-- online_date (дата появления станции в системе, она же дата открытия станции)
+- online_date (дата появления станции в системе)
 - city (нет в описании)
-- year (дата окончания периода, за который были опубликованы данные. Это поле необходимо для того, чтобы отслеживать на какой момент запись о станции присутствует в таблице. Дедупликация проводилась по ключу (id, year). Если запись по id встречается несколько раз, означает, что станция продолжает существовать несколько периодов)
+###
+# P. S.
+Никакая обработка данных кроме конкатенации не проводилась (с таблицей stations продолжу работу, надо посмотреть что там с датами)
