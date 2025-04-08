@@ -113,3 +113,6 @@ https://miro.com/welcomeonboard/SzVlN0hlSFVLczVIenl1WWlrRFhjOHpXNlNXcW1iVkYwenM4
 ###
 # P. S.
 Никакая обработка данных кроме конкатенации не проводилась (с таблицей stations продолжу работу, надо посмотреть что там с датами)
+
+## Trips + stations 2013 - 2019
+Скачать https://disk.yandex.ru/d/2utTOPGF-gTj6Q
