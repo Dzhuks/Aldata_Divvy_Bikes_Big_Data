@@ -116,3 +116,9 @@ https://miro.com/welcomeonboard/SzVlN0hlSFVLczVIenl1WWlrRFhjOHpXNlNXcW1iVkYwenM4
 
 ## Trips + stations 2013 - 2019
 Скачать https://disk.yandex.ru/d/2utTOPGF-gTj6Q
+
+## Ценность поездок
+Скачать https://disk.yandex.ru/d/2wP6dQf0tWGnYg
+
+## Погода
+Скачать https://disk.yandex.ru/d/6ZiR3aYGLIS86Q
