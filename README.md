@@ -128,3 +128,4 @@ https://miro.com/welcomeonboard/SzVlN0hlSFVLczVIenl1WWlrRFhjOHpXNlNXcW1iVkYwenM4
 
 ## Анализ коротких & плохих поездок
 Файл: short_trip_eda.ipynb
+Короткие поездки_version_2.pdf
