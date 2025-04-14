@@ -122,3 +122,9 @@ https://miro.com/welcomeonboard/SzVlN0hlSFVLczVIenl1WWlrRFhjOHpXNlNXcW1iVkYwenM4
 
 ## Погода
 Скачать https://disk.yandex.ru/d/6ZiR3aYGLIS86Q
+
+## Разведовательный анализ
+Файл: first_eda.ipynb
+
+## Анализ коротких & плохих поездок
+Файл: short_trip_eda.ipynb
