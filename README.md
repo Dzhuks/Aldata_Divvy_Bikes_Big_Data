@@ -3,6 +3,9 @@ https://miro.com/welcomeonboard/SzVlN0hlSFVLczVIenl1WWlrRFhjOHpXNlNXcW1iVkYwenM4
 
 # Описание данных
 
+## TOTAL (ценность)
+Скачать (2020-2025) https://disk.yandex.ru/d/MjpTe1zZ72LyAA
+
 ## tripdata
 Скачать: https://disk.yandex.ru/d/BxYXxeP3JOZ6ew
 
@@ -118,7 +121,8 @@ https://miro.com/welcomeonboard/SzVlN0hlSFVLczVIenl1WWlrRFhjOHpXNlNXcW1iVkYwenM4
 Скачать https://disk.yandex.ru/d/2utTOPGF-gTj6Q
 
 ## Ценность поездок
-Скачать https://disk.yandex.ru/d/2wP6dQf0tWGnYg
+Скачать (2013-2019) https://disk.yandex.ru/d/CXHWShzucOhzjQ
+Скачать (2020-2025) https://disk.yandex.ru/d/4y78MpotgQZXEg
 
 ## Погода
 Скачать https://disk.yandex.ru/d/6ZiR3aYGLIS86Q
